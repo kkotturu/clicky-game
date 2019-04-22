@@ -1,0 +1,21 @@
+.header{
+	background-color: rgb(238, 225, 122);
+	position: relative;
+	width: 100%;
+}
+
+h1{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 20px; 
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 40px;
+	font-style: oblique;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

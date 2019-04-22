@@ -1,0 +1,19 @@
+  
+  body {
+    font-size: 20px;
+  }
+
+.navbar li {
+    display:inline-block;
+    text-align: center;
+  }
+  .navbar {
+    background: #534e4ead;
+   }
+  
+  li {
+    color: white;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+  }
